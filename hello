@@ -1,5 +1,0 @@
-public class PrintHello {
-	public static void main(String[] arg) {
-		System.out.println("Java is high-level programming language..!");
-	}
-}
